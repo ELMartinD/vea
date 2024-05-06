@@ -76,6 +76,18 @@ p.textofooter2 {
     border-right: 2px solid rgba(0, 0, 0, 0.438);
 }
 
+
+.footerhijoo {
+    padding: 5.5%;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-family: "Hind Siliguri", sans-serif;
+    font-weight: 800;
+}
+
 .imgayuda {
     width: 100%;
     display: flex;
