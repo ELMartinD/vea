@@ -4,6 +4,7 @@
 }
 
 
+
 p.textofooter2 {
     font-size: 95%;
 }
@@ -64,7 +65,7 @@ p.textofooter2 {
 }
 
 .footerhijo {
-    padding: 8.5%;
+    padding: 5.5%;
     width: auto;
     display: flex;
     flex-wrap: wrap;
